@@ -1,0 +1,26 @@
+/* inizio header */
+
+header{
+    background-color:cornflowerblue;
+    height: 100px;
+}
+
+.pattern{
+    background-image: url("../img/pattern.png");
+    height: 100px;
+    background-repeat: repeat-x;
+}
+
+/* fine header */
+
+
+
+
+
+/* inizio main */
+
+
+
+
+
+/* fine main */
