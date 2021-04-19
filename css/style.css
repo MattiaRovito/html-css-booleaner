@@ -75,4 +75,28 @@ h1{
 }
 
 
+h3{
+    color: grey;
+    
+}
+
+
+
+.container {
+    position: relative;
+    text-align: left;
+    color: white;
+   }
+
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 100px;
+    font-size: 30px;
+   }
+   
+   
+
+
+
 /* fine main */
