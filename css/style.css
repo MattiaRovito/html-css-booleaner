@@ -20,7 +20,21 @@ header{
 /* inizio main */
 
 
+h1{
+    font-size: 60px;
+}
 
+.spangrigio{
+    color: grey;
+}
+
+.spanblu{
+    color:blue;
+}
+
+.size {
+    font-size: 25px;
+}
 
 
 /* fine main */
