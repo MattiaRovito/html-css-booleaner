@@ -19,6 +19,13 @@ header{
 
 /* inizio main */
 
+main{
+    width: 1200px;
+    margin: auto;
+    height: 300px;
+}
+
+
 
 h1{
     font-size: 60px;
